@@ -50,8 +50,11 @@ The program also supports to read from standard input if no filename is specifie
  ```
 
 
-# Default
+## Default
 By default, the program outputs the number of words, lines, bytes, and characters for the file.
+
+## Demo
+![image](https://github.com/ktran1005/wc/assets/88155108/ae4c3252-25f3-4773-b67d-d24ef13b950d)
 
    
 
